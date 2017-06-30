@@ -1,7 +1,3 @@
-# Cocorico
-
-
-
 This document contains information on how to download, install, and start using Cocorico:
 
 - [Installation](#installation)
